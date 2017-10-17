@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-stuff here
+more stuff here for no reason
 
 ## Purpose
 
