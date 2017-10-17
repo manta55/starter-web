@@ -17,3 +17,5 @@ Not likely
 ## How to contribute
 
 ###Copyright
+
+All rights reserved.
